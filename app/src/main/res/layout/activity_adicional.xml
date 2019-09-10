@@ -44,7 +44,7 @@
         app:layout_constraintTop_toBottomOf="@+id/lblEndereco" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/txtEndereco"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
@@ -59,7 +59,7 @@
         app:layout_constraintStart_toEndOf="@+id/lblEndereco" />
 
     <EditText
-        android:id="@+id/editText4"
+        android:id="@+id/txtTelefone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -69,10 +69,10 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/lblTelefone"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/editText3" />
+        app:layout_constraintStart_toStartOf="@+id/txtEndereco" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/imgAndroid"
         android:layout_width="186dp"
         android:layout_height="211dp"
         android:layout_marginStart="8dp"
