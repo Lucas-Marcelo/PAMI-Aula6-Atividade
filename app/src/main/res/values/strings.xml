@@ -1,0 +1,14 @@
+<resources>
+
+    /*Main Activity*/
+    <string name="app_name">Cadastro</string>
+    <string name="lblDadosBasicos">Dados Básicos</string>
+    <string name="lblNome">Nome: </string>
+    <string name="lblEmail">E-mail: </string>
+    <string name="btnDadosAdicionais">Dados Adicionais </string>
+
+    /*Adicional Activity*/
+    <string name="lblDadosComplementares">Dados Complementares </string>
+    <string name="lblEndereco">Endereço: </string>
+    <string name="lblTelefone">Telefone: </string>
+</resources>
